@@ -15,3 +15,4 @@ var typed = new Typed('.traditional', {
 
 
 
+

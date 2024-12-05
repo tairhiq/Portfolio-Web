@@ -12,3 +12,6 @@ var typed = new Typed('.traditional', {
     backSpeed:100,
     loop:true,
 });
+
+
+
